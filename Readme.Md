@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo using
 <pre>
 <code>
-git clone https://github.com/kdsanskar07/TwitterClone.git</code>
+git clone https://github.com/Piyushkumarraja/Twitter.git</code>
 </pre>
 
 2. Goto the project repo and run command
