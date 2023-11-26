@@ -20,6 +20,9 @@ This Application is a clone of popular social media platform Twitter and it cont
 - [MongoDB](https://www.mongodb.com/)
 - [GraphQL](https://graphql.org/)
 
+### Demo URL
+https://drive.google.com/file/d/1gnUslE035V1QIHwNHVcssaf56CrTTKPq/view
+
 <!-- GETTING STARTED -->
 
 ## Getting Started
